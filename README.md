@@ -3,6 +3,7 @@ An open source oxygen flowmeter alternative using CNC machining, off the shelf p
 
 ![alt text](https://github.com/FracktalWorks/trushape-oxymeter/raw/master/Images/Assembly.png "Trueshape Oxymeter")
 
+![alt text](https://github.com/FracktalWorks/trushape-oxymeter/raw/master/Images/Photo.jpg "Trueshape Oxymeter")
 
 ### licence
  ------------------------------------------------------------------------------                                                
