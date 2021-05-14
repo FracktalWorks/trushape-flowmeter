@@ -1,12 +1,7 @@
 # Trueshape Oxymeter
 An open source oxygen flowmeter alternative using CNC machining, off the shelf parts and 3D Printing to meet the demand of flowmeters in India
 
-
-
-
-
-
-
+![alt text](https://github.com/FracktalWorks/trushape-oxymeter/raw/master/Images/Assembly.png "Trueshape Oxymeter")
 
 
 ### licence
